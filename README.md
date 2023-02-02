@@ -1,4 +1,4 @@
-# Backend User Data - ALX & Holberton School
+# Backend User Data - ALX School
 
 ## Description
 This repository contains programs written for the specialization section.
